@@ -4,4 +4,4 @@
 ------------
 
 ### 실행 영상
-[유튜브 영상 클릭 시 재생](http://img.youtube.com/vi/ZxURQlAbTBc/0.jpg)](https://youtu.be/ZxURQlAbTBc)
+[![Video Label](http://img.youtube.com/vi/ZxURQlAbTBc/0.jpg)](https://youtu.be/ZxURQlAbTBc)
